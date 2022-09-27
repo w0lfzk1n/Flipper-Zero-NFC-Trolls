@@ -15,18 +15,12 @@ Privat contact for input:
 
 I collected a few websites and videos i tought, it might be worth to have them in your pocket when you are around :)
 
+Trolls // Funny stuff // Weird stuff // Helpfull stuff
+
 Using Android, i wrote the links to empty NTAG_213BIT emulated by Flipper Zero.
-
-Currently i did not manage to write as a standalone NFC file and I am not even sure if i am able to, since i don't own a NTAG.
-
-*Solution? Hit me up*
 
 ## How to add?
 Place the folder/s or file/s onto the SD-Cards folder for NFC, used by your Flipper.
-
-**You have to add both files for each NFC-Tag, .nfc  and  .shd**
-
-**Otherwise the tag will be seen as empty**
 
 É voila :D 
 
@@ -34,7 +28,7 @@ Launch them on your Flipper, hold it near a device with NFC turned on and watch 
 
 ## Documentation
 
-## Websites
+## NFC_Files
 
 Press F11 to enable/disable Fullscreen ;)
 
