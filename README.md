@@ -30,7 +30,7 @@ Launch them on your Flipper, hold it near a device with NFC turned on and watch 
 
 ## Documentation
 
-* = New File
+"*" = New File
 
 ## NFC_Files
 
@@ -45,7 +45,7 @@ Press F11 to enable/disable Fullscreen ;)
 | `Emkei_Email` | `Helpful` | Send anonymous emails. |
 | `Google Eastereggs` | `Helpful` | Collection of Google Easter eggs. |
 | `RevShells` | `Helpful` | ReverseShell generator <-< |
-| `z0r` | `Helpful` | *!Epilepsy Warning!* Random weird GIFs|
+| `z0r` | `Helpful` | **!Epilepsy Warning!** Random weird GIFs|
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
