@@ -14,59 +14,59 @@ List of files in the zip
   Website with 99 Things to watch/check on the internet.
   
 Akinator_213.nfc
-  Guy that can guess, what you are thinking about.
+-Guy that can guess, what you are thinking about.
   
 Ascii_213.nfc
-  Website to create ASCII artworks.
+-Website to create ASCII artworks.
   
 Bambi_213.nfc
-  German Bambi/Bambee parody.
+-German Bambi/Bambee parody.
   
 BlankWIndows_213.nfc
-  Website with blank movable windows.
+-Website with blank movable windows.
   
 Emkei_Email_213.nfc
-  Website to send anonymous emails.
+-Website to send anonymous emails.
   
 Google_Eastereggs_213.nfc
-  Website with all Google eastereggs.
+-Website with all Google eastereggs.
   
 Google1980_213.nfc
-  How Google would have looked like in 1980.
+-How Google would have looked like in 1980.
   
 HackTyper_213.nfc
-  Website that looks like you are hacking something.
+-Website that looks like you are hacking something.
   
 HubPtroll_213.nfc
-  Plays YouTube Video with PHub TrollIntro.
+-Plays YouTube Video with PHub TrollIntro.
   
 MobileUpdate_213.nfc
-  Website that displays an Update screen for several OS.
+-Website that displays an Update screen for several OS.
   
 OneMillionLOL_213.nfc
-  One million LOLs
+-One million LOLs
   
 Pointer_Troll_213.nfc
-  Website that shows people, pointing at your cursor location.
+-Website that shows people, pointing at your cursor location.
   
 Random_Person_213.nfc
-  Shows nonexisting pictures of random peoples.
+-Shows nonexisting pictures of random peoples.
   
 RandomUselessSite_213.nfc
-  Theuselessweb has a bunch of useless websites.
+-Theuselessweb has a bunch of useless websites.
   
 Red_Button_213.nfc
-  Similar to Theuselessweb.
+-Similar to Theuselessweb.
   
 RevShells_213.nfc
-  Ehhhhh reverse shell generator.
+-Ehhhhh reverse shell generator.
   
 WaterGoogle_213.nfc
-  Google, but underwater.
+-Google, but underwater.
   
 Win93_Trolls_213.nfc
-  Collection of some funny stuff.
+-Collection of some funny stuff.
   
 z0r_213.nfc
-  Random GIFs
-  !! Epilepsy Warning !!
+-Random GIFs
+!! Epilepsy Warning !!
