@@ -4,6 +4,8 @@ Toxic_Wolf#2468
 
 Just add the files in the NFC folder on your Flipper Zero.
 
+You have to add the .nfc AND the .shd files for it to work. These tags have been written to empty tags and will not work with just adding the .nfc files somehow.
+
 # Version:
 
 0.1
