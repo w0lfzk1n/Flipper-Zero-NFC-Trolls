@@ -8,7 +8,8 @@ This is my first GitHub Repo, please don't blame :)
 
 You know any other site or want to share a video/website too?
 
-- [@w0lfzk1nD](https://github.com/w0lfzk1n)
+- [GitHub @w0lfzk1nD](https://github.com/w0lfzk1n)
+- [Discord Toxic_Wolf#2468]
 
 
 ## What?
