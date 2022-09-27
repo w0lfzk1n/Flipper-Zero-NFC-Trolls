@@ -13,8 +13,6 @@ You have to add the .nfc AND the .shd files for it to work. These tags have been
 27.09.2022 (EU)
 
 
-# List of files in the zip
-
 # 99Things_213.nfc
 
 --Website with 99 Things to watch/check on the internet.
