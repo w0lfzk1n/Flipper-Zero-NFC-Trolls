@@ -10,6 +10,7 @@ Privat contact for input:
 
 - [@w0lfzk1nD](https://github.com/w0lfzk1n)
 
+
 ## What?
 
 I collected a few websites and videos i tought, it might be worth to have them in your pocket when you are around :)
@@ -38,9 +39,29 @@ Press F11 to enable/disable Fullscreen ;)
 | `Ascii` | `Helpfull` | Generator for ASCII artworks. |
 | `Emkei_Email` | `Helpfull` | Send anonymous emails. |
 | `Google Eastereggs` | `Helpfull` | Collection of Google Easter eggs. |
+| `RevShells` | `Helpfull` | ReverseShell generator <-< |
+| `z0r` | `Helpfull` | *!Epilepsy Warning!* Random weird GIFs|
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `BlankWindows` | `Troll` | Website containing only blank windows. |
 | `Google1980` | `Troll` | How GOOGLE would have looked like in 1980. |
 | `HackerTyper` | `Troll` | Website that simulates movielike hacking, press some Keys to make stuff happen. |
+| `MobileUpdate` | `Troll` | Website that simulates Update screens. |
+| `OneMillionLOL` | `Troll` | 1'000'000x LOL. |
+| `Pointer_Troll` | `Troll` | Displays random pictures where people point at your pointer. |
+| `RandomPerson` | `Troll` | RandomGenerated persons. |
+| `RandomUselessSite` | `Troll` | TheUselessWeb is a collection of random sites. |
+| `Red_Button` | `Troll` | Similar to TheUselessWeb. |
+| `Water_Google` | `Troll` | Google but underwater. |
+| `Win93_Trolls` | `Troll` | Collection of random stuff of old computers. |
+
+
+## NFC_YouTube
+
+| Name      | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `HubPtroll` | `Troll` | PHub intro troll. |
+| `Bambi` | `Troll` | *GERMAN* parody of Bambee. |
+
+*more comming soon...*
