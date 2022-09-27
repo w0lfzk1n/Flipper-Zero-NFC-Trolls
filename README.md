@@ -40,7 +40,8 @@ Press F11 to enable/disable Fullscreen ;)
 | :-------- | :------- | :------------------------- |
 | `RandomUselessSite` | `Helpful` | TheUselessWeb is a giant collection of random sites. |
 | `99Things` | `Helpful` | 99 things to visit on the internet. |
-| `Akinator` | `Helpful` | Guy that tries to guess the object you think of. |
+| `Akinator_EN` | `Helpful` | Guy that tries to guess the object you think of. |
+| `Akinator_DE` | `Helpful` | German guy :) |
 | `Ascii` | `Helpful` | Generator for ASCII artworks. |
 | `Emkei_Email` | `Helpful` | Send anonymous emails. |
 | `Google Eastereggs` | `Helpful` | Collection of Google Easter eggs. |
