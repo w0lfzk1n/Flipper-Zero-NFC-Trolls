@@ -72,7 +72,7 @@ Press F11 to enable/disable Fullscreen ;)
 | :-------- | :------- | :------------------------- |
 | `HubPtroll` | `Troll` | PHub intro troll. |
 | `Bambi` | `Troll` | *GERMAN* parody of Bambee. |
-| `*CantinaBand` | `Troll` | The catina band song *Play the same song agaian!*. |
+| `*CantinaBand` | `Troll` | The catina band song *Play the same song agian!*. |
 | `*AngryPanda` | `Troll` | Angry Panda cheese commercials. |
 | `*Delete my PC` | `Troll` | What i tought would happen, when i delete *My Pc*. |
 | `*NyanCat_10h` | `Troll` | Nothing to mention here. |
