@@ -1,6 +1,7 @@
 # F0-NFC-Trolls
 
-`Version: 0.2`
+`Version: 0.3`
+  `Added 12 NEW NFC files`
 
 !! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
@@ -16,7 +17,7 @@ You know any other site or want to share a video/website too?
 
 I collected a few websites and videos i tought, it might be worth to have them in your pocket when you are around :)
 
-Trolls // Funny stuff // Weird stuff // Helpfull stuff
+Trolls // Funny stuff // Weird stuff // Helpful stuff
 
 Using Android, i wrote the links to empty NTAG_213BIT emulated by Flipper Zero.
 
@@ -29,19 +30,22 @@ Launch them on your Flipper, hold it near a device with NFC turned on and watch 
 
 ## Documentation
 
+* = New File
+
 ## NFC_Files
 
 Press F11 to enable/disable Fullscreen ;)
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `99Things` | `Helpfull` | 99 things to visit on the internet. |
-| `Akinator` | `Helpfull` | Guy that tries to guess the object you think of. |
-| `Ascii` | `Helpfull` | Generator for ASCII artworks. |
-| `Emkei_Email` | `Helpfull` | Send anonymous emails. |
-| `Google Eastereggs` | `Helpfull` | Collection of Google Easter eggs. |
-| `RevShells` | `Helpfull` | ReverseShell generator <-< |
-| `z0r` | `Helpfull` | *!Epilepsy Warning!* Random weird GIFs|
+| `RandomUselessSite` | `Helpful` | TheUselessWeb is a giant collection of random sites. |
+| `99Things` | `Helpful` | 99 things to visit on the internet. |
+| `Akinator` | `Helpful` | Guy that tries to guess the object you think of. |
+| `Ascii` | `Helpful` | Generator for ASCII artworks. |
+| `Emkei_Email` | `Helpful` | Send anonymous emails. |
+| `Google Eastereggs` | `Helpful` | Collection of Google Easter eggs. |
+| `RevShells` | `Helpful` | ReverseShell generator <-< |
+| `z0r` | `Helpful` | *!Epilepsy Warning!* Random weird GIFs|
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -52,10 +56,13 @@ Press F11 to enable/disable Fullscreen ;)
 | `OneMillionLOL` | `Troll` | 1'000'000x LOL. |
 | `Pointer_Troll` | `Troll` | Displays random pictures where people point at your pointer. |
 | `RandomPerson` | `Troll` | RandomGenerated persons. |
-| `RandomUselessSite` | `Troll` | TheUselessWeb is a collection of random sites. |
 | `Red_Button` | `Troll` | Similar to TheUselessWeb. |
 | `Water_Google` | `Troll` | Google but underwater. |
 | `Win93_Trolls` | `Troll` | Collection of random stuff of old computers. |
+| `*CheckBoxOlympics` | `Troll` | Who can click all checkboxes the fastest? |
+| `*FloatingQR` | `Troll` | Just a floating QR code. |
+| `*OneSquareMinesweeper` | `Troll` | A game of minesweeper, with 1 tile only. |
+| `*UnfairMario` | `Troll` | The real reason for the death of many computer hardwares. |
 
 
 ## NFC_YouTube
@@ -64,5 +71,11 @@ Press F11 to enable/disable Fullscreen ;)
 | :-------- | :------- | :------------------------- |
 | `HubPtroll` | `Troll` | PHub intro troll. |
 | `Bambi` | `Troll` | *GERMAN* parody of Bambee. |
+| `*CantinaBand` | `Troll` | The catina band song *Play the same song agaian!*. |
+| `*AngryPanda` | `Troll` | Angry Panda cheese commercials. |
+| `*Delete my PC` | `Troll` | What i tought would happen, when i delete *My Pc*. |
+| `*NyanCat_10h` | `Troll` | Nothing to mention here. |
+| `*Use_Condoms` | `Troll` | Best banned commercial ive seen. |
+| `*YallGotACig` | `Troll` | Remic of a meme. |
 
 *more coming soon...*
