@@ -6,7 +6,7 @@
 
 This is my first GitHub Repo, please don't blame :)
 
-Privat contact for input:
+You know any other site or want to share a video/website too?
 
 - [@w0lfzk1nD](https://github.com/w0lfzk1n)
 
@@ -64,4 +64,4 @@ Press F11 to enable/disable Fullscreen ;)
 | `HubPtroll` | `Troll` | PHub intro troll. |
 | `Bambi` | `Troll` | *GERMAN* parody of Bambee. |
 
-*more comming soon...*
+*more coming soon...*
