@@ -93,3 +93,6 @@ You have to add the .nfc AND the .shd files for it to work. These tags have been
 
 --Random GIFs
 !! Epilepsy Warning !!
+
+
+# More coming soon...
