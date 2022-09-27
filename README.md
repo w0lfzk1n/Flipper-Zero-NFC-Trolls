@@ -1,103 +1,46 @@
-# Flipper-Zero-NFC-Trolls
+# F0-NFC-Trolls
 
-This is my very first GitHub Repo, so plz don't blame :P
+`Version: 0.2`
 
-Additional, i DO NOT own any of these websites!
+!! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
-In this repo, i just share some NFC Tags that contain Links to some funny Websites i have collected. If you have any others to add here, hit me up on Discord. 
-Toxic_Wolf#2468
+This is my first GitHub Repo, please don't blame :)
 
-Just add the files in the NFC folder on your Flipper Zero.
+Privat contact for input:
 
-You have to add the .nfc AND the .shd files for it to work. These tags have been written to empty tags and will not work with just adding the .nfc files somehow.
+- [@w0lfzk1nD](https://github.com/w0lfzk1n)
 
-# Version:
+## What?
 
-0.1
+I collected a few websites and videos i tought, it might be worth to have them in your pocket when you are around :)
 
-27.09.2022 (EU)
+Using Android, i wrote the links to empty NTAG_213BIT emulated by Flipper Zero.
 
+Currently i did not manage to write as a standalone NFC file and I am not even sure if i am able to, since i don't own a NTAG.
 
-# 99Things_213.nfc
+## How to add?
+Place the folder/s or file/s onto the SD-Cards folder for NFC, used by your Flipper.
 
---Website with 99 Things to watch/check on the internet.
+É voila :D 
 
-# Akinator_213.nfc
+Launch them on your Flipper, hold it near a device with NFC turned on and watch :D 
 
---Guy that can guess, what you are thinking about.
+## Documentation
 
-# Ascii_213.nfc
+## Websites
 
---Website to create ASCII artworks.
+Press F11 to enable/disable Fullscreen ;)
 
-# Bambi_213.nfc
+| Name      | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `99Things` | `Helpfull` | 99 things to visit on the internet. |
+| `Akinator` | `Helpfull` | Guy that tries to guess the object you think of. |
+| `Ascii` | `Helpfull` | Generator for ASCII artworks. |
+| `Emkei_Email` | `Helpfull` | Send anonymous emails. |
+| `Google Eastereggs` | `Helpfull` | Collection of Google Easter eggs. |
 
---German Bambi/Bambee parody.
-
-# BlankWIndows_213.nfc
-
---Website with blank movable windows.
-
-# Emkei_Email_213.nfc
-
---Website to send anonymous emails.
-
-# Google_Eastereggs_213.nfc
-
---Website with all Google eastereggs.
-
-# Google1980_213.nfc
-
---How Google would have looked like in 1980.
-
-# HackTyper_213.nfc
-
---Website that looks like you are hacking something.
-
-# HubPtroll_213.nfc
-
---Plays YouTube Video with PHub TrollIntro.
-
-# MobileUpdate_213.nfc
-
---Website that displays an Update screen for several OS.
-
-# OneMillionLOL_213.nfc
-
---One million LOLs
-
-# Pointer_Troll_213.nfc
-
---Website that shows people, pointing at your cursor location.
-
-# Random_Person_213.nfc
-
---Shows nonexisting pictures of random peoples.
-
-# RandomUselessSite_213.nfc
-
---Theuselessweb has a bunch of useless websites.
-
-# Red_Button_213.nfc
-
---Similar to Theuselessweb.
-
-# RevShells_213.nfc
-
---Ehhhhh reverse shell generator.
-
-# WaterGoogle_213.nfc
-
---Google, but underwater.
-
-# Win93_Trolls_213.nfc
-
---Collection of some funny stuff.
-
-# z0r_213.nfc
-
---Random GIFs
-!! Epilepsy Warning !!
-
-
-# More coming soon...
+| Name      | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `BlankWindows` | `Troll` | Website containing only blank windows. |
+| `Google1980` | `Troll` | How GOOGLE would have looked like in 1980. |
+| `HackerTyper` | `Troll` | Website that simulates movielike hacking, press some Keys to make stuff happen. |
