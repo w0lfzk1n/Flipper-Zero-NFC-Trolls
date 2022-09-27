@@ -26,7 +26,7 @@ Place the folder/s or file/s onto the SD-Cards folder for NFC, used by your Flip
 
 **You have to add both files for each NFC-Tag, .nfc  and  .shd**
 
-**Otherwise the tag will be read as empty**
+**Otherwise the tag will be seen as empty**
 
 É voila :D 
 
