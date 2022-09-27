@@ -4,12 +4,14 @@ Toxic_Wolf#2468
 
 Just add the files in the NFC folder on your Flipper Zero.
 
-# Version: 0.1
+# Version:
+
+0.1
 
 27.09.2022 (EU)
 
 
-# List of files in the zip #
+# List of files in the zip
 
 # 99Things_213.nfc
 
