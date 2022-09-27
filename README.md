@@ -1,4 +1,9 @@
 # Flipper-Zero-NFC-Trolls
+
+This is my very first GitHub Repo, so plz don't blame :P
+
+Additional, i DO NOT own any of these websites!
+
 In this repo, i just share some NFC Tags that contain Links to some funny Websites i have collected. If you have any others to add here, hit me up on Discord. 
 Toxic_Wolf#2468
 
