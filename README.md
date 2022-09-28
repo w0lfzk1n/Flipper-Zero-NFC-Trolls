@@ -39,7 +39,7 @@ Press F11 to enable/disable Fullscreen ;)
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `RandomUselessSite` | `Helpful` | TheUselessWeb is a giant collection of random sites. |
-| `*WayBackMachine` | `Helpful` | Find old versions and deleted Websites. Giant download of THE WWW. |
+| `*WayBackMachine` | `Helpful` | Find old versions and deleted Websites. Giant download of THE WWW |
 | `99Things` | `Helpful` | 99 things to visit on the internet. |
 | `Akinator_EN` | `Helpful` | Guy that tries to guess the object you think of. |
 | `Akinator_DE` | `Helpful` | German guy :) |
