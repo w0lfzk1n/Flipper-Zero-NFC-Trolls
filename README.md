@@ -1,7 +1,7 @@
 # F0-NFC-Trolls
 
 `Version: 0.3`
-  `Added 12 NEW NFC files`
+  `Added 13 NEW NFC files`
 
 !! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
@@ -77,6 +77,7 @@ Press F11 to enable/disable Fullscreen ;)
 | `*Delete my PC` | `Troll` | What i tought would happen, when i delete *My Pc*. |
 | `*NyanCat_10h` | `Troll` | Nothing to mention here. |
 | `*Use_Condoms` | `Troll` | Best banned commercial ive seen. |
-| `*YallGotACig` | `Troll` | Remic of a meme. |
+| `*YallGotACig` | `Troll` | Remix of a meme. |
+| `*Spoon_Killer` | `Troll` | A *funny* story about the slowest killer existing. |
 
 *more coming soon...*
