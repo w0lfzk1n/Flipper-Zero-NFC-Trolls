@@ -1,7 +1,7 @@
 # F0-NFC-Trolls
 
 `Version: 0.3`
-  `Total: 36 Files`
+  `Total: 38 Files`
 
 !! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
@@ -55,6 +55,9 @@ Press F11 to enable/disable Fullscreen ;)
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `*GER_postillon` | `Troll` | **German** website for news, but its satire. |
+| `*UnfairMario` | `Troll` | The real reason for the death of many computer hardwares. |
+| `*PrankOwl` | `Troll` | Collection of many pranks, online and reallife stuff, free and paied. |
+| `*Google Gravity` | `Troll` | Usable Google, but everything collapses. |
 | `BlankWindows` | `Troll` | Website containing only blank windows. |
 | `Google1980` | `Troll` | How GOOGLE would have looked like in 1980. |
 | `HackerTyper` | `Troll` | Website that simulates movielike hacking, press some Keys to make stuff happen. |
@@ -68,7 +71,6 @@ Press F11 to enable/disable Fullscreen ;)
 | `*CheckBoxOlympics` | `Troll` | Who can click all checkboxes the fastest? |
 | `*FloatingQR` | `Troll` | Just a floating QR code. |
 | `*OneSquareMinesweeper` | `Troll` | A game of minesweeper, with 1 tile only. |
-| `*UnfairMario` | `Troll` | The real reason for the death of many computer hardwares. |
 
 
 ## NFC_YouTube
