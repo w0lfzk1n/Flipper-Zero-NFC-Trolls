@@ -79,5 +79,6 @@ Press F11 to enable/disable Fullscreen ;)
 | `*Use_Condoms` | `Troll` | Best banned commercial ive seen. |
 | `*YallGotACig` | `Troll` | Remix of a meme. |
 | `*Spoon_Killer` | `Troll` | A *funny* story about the slowest killer existing. |
+| `*Turtle_Moan` | `Troll` | Turtle enjoys life. |
 
 *more coming soon...*
