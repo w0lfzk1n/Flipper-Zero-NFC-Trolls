@@ -1,7 +1,7 @@
 # F0-NFC-Trolls
 
 `Version: 0.3`
-  `Added 13 NEW NFC files`
+  `Total: 34 Files`
 
 !! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
@@ -49,6 +49,7 @@ Press F11 to enable/disable Fullscreen ;)
 | `RevShells` | `Helpful` | ReverseShell generator <-< |
 | `z0r` | `Helpful` | **!Epilepsy Warning!** Random weird GIFs|
 | `*101_Useful_Sites` | `Helpful` | Collection of helpful sites for everything. |
+| `*MD5_Generator` | `Helpful` | Hash your string into MD5 hashes. |
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
