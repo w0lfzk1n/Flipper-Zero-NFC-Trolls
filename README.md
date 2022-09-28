@@ -48,6 +48,7 @@ Press F11 to enable/disable Fullscreen ;)
 | `Google Eastereggs` | `Helpful` | Collection of Google Easter eggs. |
 | `RevShells` | `Helpful` | ReverseShell generator <-< |
 | `z0r` | `Helpful` | **!Epilepsy Warning!** Random weird GIFs|
+| `*101_Useful_Sites` | `Helpful` | Collection of helpful sites for everything. |
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
