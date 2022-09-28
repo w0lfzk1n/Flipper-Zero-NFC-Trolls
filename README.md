@@ -1,7 +1,7 @@
 # F0-NFC-Trolls
 
 `Version: 0.3`
-  `Total: 34 Files`
+  `Total: 36 Files`
 
 !! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
@@ -54,6 +54,7 @@ Press F11 to enable/disable Fullscreen ;)
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
+| `*GER_postillon` | `Troll` | **German** website for news, but its satire. |
 | `BlankWindows` | `Troll` | Website containing only blank windows. |
 | `Google1980` | `Troll` | How GOOGLE would have looked like in 1980. |
 | `HackerTyper` | `Troll` | Website that simulates movielike hacking, press some Keys to make stuff happen. |
