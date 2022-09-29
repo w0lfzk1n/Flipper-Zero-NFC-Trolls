@@ -1,7 +1,7 @@
 # F0-NFC-Trolls
 
 `Version: 0.3`
-  `Total: 38 Files`
+  `Total: 40 Files`
 
 !! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
@@ -58,6 +58,7 @@ Press F11 to enable/disable Fullscreen ;)
 | `*UnfairMario` | `Troll` | The real reason for the death of many computer hardwares. |
 | `*PrankOwl` | `Troll` | Collection of many pranks, online and reallife stuff, free and paied. |
 | `*Google Gravity` | `Troll` | Usable Google, but everything collapses. |
+| `*Pc_update` | `Troll` | Update screens for PC. |
 | `BlankWindows` | `Troll` | Website containing only blank windows. |
 | `Google1980` | `Troll` | How GOOGLE would have looked like in 1980. |
 | `HackerTyper` | `Troll` | Website that simulates movielike hacking, press some Keys to make stuff happen. |
@@ -87,5 +88,6 @@ Press F11 to enable/disable Fullscreen ;)
 | `*YallGotACig` | `Troll` | Remix of a meme. |
 | `*Spoon_Killer` | `Troll` | A *funny* story about the slowest killer existing. |
 | `*Turtle_Moan` | `Troll` | Turtle enjoys life. |
+| `*Deja_Vue` | `Troll` | Deja Vue Complication. |
 
 *more coming soon...*
