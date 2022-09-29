@@ -72,6 +72,7 @@ Press F11 to enable/disable Fullscreen ;)
 | `*CheckBoxOlympics` | `Troll` | Who can click all checkboxes the fastest? |
 | `*FloatingQR` | `Troll` | Just a floating QR code. |
 | `*OneSquareMinesweeper` | `Troll` | A game of minesweeper, with 1 tile only. |
+| `*ShitInABox` | `Troll` | Pay 20 bucks and send a box of animal poop to someone. |
 
 
 ## NFC_YouTube
