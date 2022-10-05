@@ -67,8 +67,8 @@ Press F11 to enable/disable Fullscreen ;)
 | `*WayBackMachine` | `Helpful` | Find old versions and deleted Websites. Giant download of the internet :D | [https://archive.org/web/](https://archive.org/web/) |
 | `Flipper_Zero_CLI` | `Helpful` | Shortcut for Flipper Zero CLI website. | [https://my.flipp.dev/](https://my.flipp.dev/) |
 | `99Things` | `Helpful` | 99 things to visit on the internet. | [http://www.youshouldhaveseenthis.com/](http://www.youshouldhaveseenthis.com/) |
-| `Akinator_EN` | `Helpful` | Guy that tries to guess the object you think of. | [https://en.akinator.com/](https://en.akinator.com/) |
-| `Akinator_DE` | `Helpful` | German guy :) | [https://de.akinator.com/](https://de.akinator.com/) |
+| `Akinator_EN` | `Game` | Guy that tries to guess the object you think of. | [https://en.akinator.com/](https://en.akinator.com/) |
+| `Akinator_DE` | `Game` | German guy :) | [https://de.akinator.com/](https://de.akinator.com/) |
 | `*Ascii` | `Helpful` | Generator for ASCII artworks. | [https://www.ascii-art-generator.org/](https://www.ascii-art-generator.org/) |
 | `*Emkei_Email` | `Helpful` | Send anonymous emails. | [https://emkei.cz/](https://emkei.cz/) |
 | `Google Eastereggs` | `Helpful` | Collection of Google Easter eggs. | [https://elgoog.im/](https://elgoog.im/) |
@@ -76,14 +76,16 @@ Press F11 to enable/disable Fullscreen ;)
 | `*z0r` | `Helpful` | **!Epilepsy Warning!** Random weird GIFs| [https://z0r.de/](https://z0r.de/) |
 | `101_Useful_Sites` | `Helpful` | Collection of helpful sites for everything. | [https://www.labnol.org/internet/101-useful-websites/18078/](https://www.labnol.org/internet/101-useful-websites/18078/) |
 | `MD5_Generator` | `Helpful` | Hash your string into MD5 hashes. | [https://md5hashgenerator.com/](https://md5hashgenerator.com/) |
-| `GeoGuesser` | `Helpful` | Drops you somewhere on Google Maps and you have to guess where you are.| [https://www.geoguessr.com/](https://www.geoguessr.com/) |
+| `GeoGuesser` | `Game` | Drops you somewhere on Google Maps and you have to guess where you are.| [https://www.geoguessr.com/](https://www.geoguessr.com/) |
 | `FlightRadar` | `Helpful` | Realtime tracking of airplanes around the globe.| [https://www.flightradar24.com/](https://www.flightradar24.com/) |
 | `InternetMap` | `Helpful` | A map of the entire *clear-web*.| [http://internet-map.net/](http://internet-map.net/) |
+
+**TROLLS BELOW**
 
 | Name      | Type     | Description                | Link     |
 | :-------- | :------- | :------------------------- | :------- |
 | `*GER_postillon` | `Troll` | **German** website for news, but its satire. | [https://www.der-postillon.com/](https://www.der-postillon.com/) |
-| `*UnfairMario` | `Troll` | The real reason for the death of many computer hardwares. | [https://playunfairmario.net/](https://playunfairmario.net/) |
+| `*UnfairMario` | `TrollGame` | The real reason for the death of many computer hardwares. | [https://playunfairmario.net/](https://playunfairmario.net/) |
 | `PrankOwl` | `Troll` | Collection of many pranks, online and reallife stuff, free and paied. | [https://www.prankowl.com/](https://www.prankowl.com/) |
 | `Google Gravity` | `Troll` | Usable Google, but everything collapses. | [https://mrdoob.com/projects/chromeexperiments/google-gravity/](https://mrdoob.com/projects/chromeexperiments/google-gravity/) |
 | `*Pc_FakeUpdate` | `Troll` | Update screens for PC. | [https://dushusir.com/fake/](https://dushusir.com/fake/) |
@@ -91,15 +93,15 @@ Press F11 to enable/disable Fullscreen ;)
 | `Google1980` | `Troll` | How GOOGLE would have looked like in 1980. | [https://elgoog.im/terminal/](https://elgoog.im/terminal/) |
 | `*HackerTyper` | `Troll` | Website that simulates movielike hacking, press some Keys to make stuff happen. | [https://www.geektyper.com/plain/](https://www.geektyper.com/plain/) |
 | `*MobileUpdate` | `Troll` | Website that simulates Mobile Phone Update screens. | [https://fakeupdate.net/mobile/](https://fakeupdate.net/mobile/) |
-| `OneMillionLOL` | `Troll` | **THIS FILE HAS BEEN DELETED!** | [DELETED() |
+| `OneMillionLOL` | `Troll` | **THIS FILE HAS BEEN DELETED!** | [DELETED]() |
 | `Pointer_Troll` | `Troll` | Displays random pictures where people point at your pointer. | [https://pointerpointer.com/](https://pointerpointer.com/) |
 | `RandomPerson` | `Troll` | RandomGenerated persons. | [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/) |
 | `Red_Button` | `Troll` | Similar to TheUselessWeb. | [https://www.boredbutton.com/](https://www.boredbutton.com/) |
 | `Water_Google` | `Troll` | Google but underwater. | [https://elgoog.im/underwater/](https://elgoog.im/underwater/) |
 | `Win93_Trolls` | `Troll` | **THIS FILE HAS BEEN DELETED** | [DELETED]() |
-| `CheckBoxOlympics` | `Troll` | Who can click all checkboxes the fastest? | [https://checkboxolympics.com/](https://checkboxolympics.com/) |
+| `CheckBoxOlympics` | `TrollGame` | Who can click all checkboxes the fastest? | [https://checkboxolympics.com/](https://checkboxolympics.com/) |
 | `FloatingQR` | `Troll` | Just a floating QR code. | [https://floatingqrcode.com/](https://floatingqrcode.com/) |
-| `*OneSquareMinesweeper` | `Troll` | A game of minesweeper, with 1 tile only. | [https://onesquareminesweeper.com/](https://onesquareminesweeper.com/) |
+| `*OneSquareMinesweeper` | `TrollGame` | A game of minesweeper, with 1 tile only. | [https://onesquareminesweeper.com/](https://onesquareminesweeper.com/) |
 | `ShitInABox` | `Troll` | Pay 20 bucks and send a box of animal poop to someone. **THIS ONE, ONLY EU** | [https://shitforyou.eu/de/](https://shitforyou.eu/de/) |
 
 
