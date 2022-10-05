@@ -29,7 +29,7 @@ Place the folder/s or file/s onto the SD-Cards folder for NFC, used by your Flip
 
 Launch them on your Flipper, hold it near a device with NFC turned on and watch :D 
 
-## How?
+## How to create myself?
 
 Here i will show you, how you can create your own NFC Tags like this. I will just referr to my situation, but this should show how to do it.
 
