@@ -1,7 +1,7 @@
 # F0-NFC-Trolls
 
 `Version: 0.5`
-  `Total: 50 Files`
+  `Total: 51 Files`
 
 !! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
@@ -78,6 +78,7 @@ Press F11 to enable/disable Fullscreen ;)
 | `MD5_Generator` | `Helpful` | Hash your string into MD5 hashes. |
 | `GeoGuesser` | `Helpful` | Drops you somewhere on Google Maps and you have to guess where you are.|
 | `FlightRadar` | `Helpful` | Realtime tracking of airplanes around the globe.|
+| `InternetMap` | `Helpful` | A map of the entire *clear-web*.|
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
