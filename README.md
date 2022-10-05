@@ -120,7 +120,7 @@ Press F11 to enable/disable Fullscreen ;)
 | `Deja_Vue` | `Troll` | Deja Vue Complication. | [https://youtu.be/084FXsflPOE](https://youtu.be/084FXsflPOE) |
 | `EN_RedandBlue` | `Troll` | Episode 1 about 2 stickfigures and their weird adventures. | [https://youtu.be/dXauV32kSrI](https://youtu.be/dXauV32kSrI) |
 | `*GER_RedandBlue` | `Troll` | German version of above. | [https://youtu.be/fo1ppiaV4Sc](https://youtu.be/fo1ppiaV4Sc) |
-| `EN_ASDFmovie_FULL` | `Troll` | You should watch it, it's a legend. | [https://youtu.be/kcNpBNpvyc4]([https://youtu.be/kcNpBNpvyc4) |
+| `EN_ASDFmovie_FULL` | `Troll` | You should watch it, it's a legend. | [https://youtu.be/kcNpBNpvyc4](https://youtu.be/kcNpBNpvyc4) |
 | `*GER_ASDFmovie_FULL` | `Troll` | German version of above. | [https://youtu.be/fhS9Y3SfuRQ](https://youtu.be/fhS9Y3SfuRQ) |
 | `*EldenRing_Cartoon` | `Troll` | Ep 1 of many funny animations, even hilarious if you didn't play the game. | [https://youtu.be/LSyRf8rAjTs](https://youtu.be/LSyRf8rAjTs) |
 | `*Letsgameitout` | `Troll` | **Youtube Channel** If you want to watch someone trying the limits of their pc and a game, he is the legend. | [https://www.youtube.com/c/LetsGameItOut](https://www.youtube.com/c/LetsGameItOut) |
