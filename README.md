@@ -1,7 +1,7 @@
 # F0-NFC-Trolls
 
-`Version: 0.4`
-  `Total: 45 Files`
+`Version: 0.5`
+  `Total: 46 Files`
 
 !! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
@@ -119,5 +119,6 @@ Press F11 to enable/disable Fullscreen ;)
 | `*GER_RedandBlue` | `Troll` | German version of above. |
 | `EN_ASDFmovie_FULL` | `Troll` | You should watch it, it's a legend. |
 | `*GER_ASDFmovie_FULL` | `Troll` | German version of above. |
+| `*EldenRing_Cartoon` | `Troll` | Ep 1 of many funny animations, even hilarious if you didn't play the game. |
 
 *more coming soon...*
