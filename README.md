@@ -35,7 +35,7 @@ Here i will show you, how you can create your own NFC Tags like this. I will jus
 
 **Requirements**
 
-- Mobile Phone with NFC App to write *Android in my case*
+- Mobile Phone with NFC App to write    *(Android in my case)*
 - Flipper Zero
 - PC with qFlipper
 
@@ -51,6 +51,7 @@ Here i will show you, how you can create your own NFC Tags like this. I will jus
 
 6. Enjoy your NFC Tag :D
 
+*MAY YOUR PHONE DOES NOT SUPPORT NFC OR NFC WRITING, PLEASE INFORM YOURSELF AND DON'T ASK ME ABOUT THIS*
 
 ## Documentation
 
