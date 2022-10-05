@@ -120,5 +120,6 @@ Press F11 to enable/disable Fullscreen ;)
 | `EN_ASDFmovie_FULL` | `Troll` | You should watch it, it's a legend. |
 | `*GER_ASDFmovie_FULL` | `Troll` | German version of above. |
 | `*EldenRing_Cartoon` | `Troll` | Ep 1 of many funny animations, even hilarious if you didn't play the game. |
+| `*Letsgameitout` | `Troll` | **Youtube Channel** If you want to watch someone trying the limits of their pc and a game, he is the legend. |
 
 *more coming soon...*
