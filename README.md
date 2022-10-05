@@ -1,7 +1,7 @@
 # F0-NFC-Trolls
 
 `Version: 0.5`
-  `Total: 46 Files`
+  `Total: 48 Files`
 
 !! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
