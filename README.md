@@ -12,7 +12,7 @@ You know any other site or want to share a video/website too?
 - [GitHub @w0lfzk1nD](https://github.com/w0lfzk1n)
 - [Discord Toxic_Wolf#2468]
 
-##Infos
+## ==Infos==
 
 - *I am german, so i will add some german things as well, every german file will be noted with GER*
 - *Please don't use the 2 files that have been removed. Blankwindows and OneMillionLOL!*
