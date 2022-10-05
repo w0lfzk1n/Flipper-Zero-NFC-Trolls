@@ -61,9 +61,9 @@ Here i will show you, how you can create your own NFC Tags like this. I will jus
 
 Press F11 to enable/disable Fullscreen ;)
 
-| Name      | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `RandomUselessSite` | `Helpful` | TheUselessWeb is a giant collection of random sites. |
+| Name      | Type     | Description                | Link     |
+| :-------- | :------- | :------------------------- | :------- |
+| `RandomUselessSite` | `Helpful` | TheUselessWeb is a giant collection of random sites. | [GitHub @w0lfzk1nD](https://github.com/w0lfzk1n) |
 | `*WayBackMachine` | `Helpful` | Find old versions and deleted Websites. Giant download of the internet :D |
 | `Flipper_Zero_CLI` | `Helpful` | Shortcut for Flipper Zero CLI website. |
 | `99Things` | `Helpful` | 99 things to visit on the internet. |
