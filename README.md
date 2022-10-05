@@ -80,8 +80,8 @@ Press F11 to enable/disable Fullscreen ;)
 | `FlightRadar` | `Helpful` | Realtime tracking of airplanes around the globe.| [https://www.flightradar24.com/](https://www.flightradar24.com/) |
 | `InternetMap` | `Helpful` | A map of the entire *clear-web*.| [http://internet-map.net/](http://internet-map.net/) |
 
-| Name      | Type     | Description                |
-| :-------- | :------- | :------------------------- |
+| Name      | Type     | Description                | Link     |
+| :-------- | :------- | :------------------------- | :------- |
 | `*GER_postillon` | `Troll` | **German** website for news, but its satire. | [https://www.der-postillon.com/](https://www.der-postillon.com/) |
 | `*UnfairMario` | `Troll` | The real reason for the death of many computer hardwares. | [https://playunfairmario.net/](https://playunfairmario.net/) |
 | `PrankOwl` | `Troll` | Collection of many pranks, online and reallife stuff, free and paied. | [https://www.prankowl.com/](https://www.prankowl.com/) |
@@ -105,8 +105,8 @@ Press F11 to enable/disable Fullscreen ;)
 
 ## NFC_YouTube
 
-| Name      | Type     | Description                | []() |
-| :-------- | :------- | :------------------------- | []() |
+| Name      | Type     | Description                | Link     |
+| :-------- | :------- | :------------------------- | :------- |
 | `*HubPtroll` | `Troll` | PHub intro troll. | [https://youtu.be/rrbfbeCJZS0](https://youtu.be/rrbfbeCJZS0) |
 | `*Bambi` | `Troll` | **GERMAN** parody of Bambee. | [https://youtu.be/rICy3gZOHqE](https://youtu.be/rICy3gZOHqE) |
 | `CantinaBand` | `Troll` | The catina band song *Play the same song agian!*. | [https://youtu.be/k1sWbWlinPM](https://youtu.be/k1sWbWlinPM) |
