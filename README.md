@@ -15,7 +15,7 @@ You know any other site or want to share a video/website too?
 ## ==Infos==
 
 - *I am german, so i will add some german things as well, every german file will be noted with GER*
-- *Please don't use the 2 files that have been removed. Blankwindows and OneMillionLOL!*
+- *Please remove and don't use the 2 files that have been removed. Blankwindows and OneMillionLOL!*
 
 ## What?
 
