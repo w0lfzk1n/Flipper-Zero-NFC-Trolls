@@ -1,9 +1,9 @@
 # F0-NFC-Trolls
 
-`Version: 0.5`
-  `Total: 51 Files`
+`Version: 0.6`
+  `Total: 49 Files`
 
-!! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
+**!! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!**
 
 This is my first GitHub Repo, please don't blame :)
 
@@ -12,7 +12,10 @@ You know any other site or want to share a video/website too?
 - [GitHub @w0lfzk1nD](https://github.com/w0lfzk1n)
 - [Discord Toxic_Wolf#2468]
 
-*I am german, so i will add some german things as well, every german file will be noted with GER*
+##Infos
+
+- *I am german, so i will add some german things as well, every german file will be noted with GER*
+- *Please don't use the 2 files that have been removed. Blankwindows and OneMillionLOL!*
 
 ## What?
 
