@@ -63,66 +63,66 @@ Press F11 to enable/disable Fullscreen ;)
 
 | Name      | Type     | Description                | Link     |
 | :-------- | :------- | :------------------------- | :------- |
-| `RandomUselessSite` | `Helpful` | TheUselessWeb is a giant collection of random sites. | [GitHub @w0lfzk1nD](https://github.com/w0lfzk1n) |
-| `*WayBackMachine` | `Helpful` | Find old versions and deleted Websites. Giant download of the internet :D |
-| `Flipper_Zero_CLI` | `Helpful` | Shortcut for Flipper Zero CLI website. |
-| `99Things` | `Helpful` | 99 things to visit on the internet. |
-| `Akinator_EN` | `Helpful` | Guy that tries to guess the object you think of. |
-| `Akinator_DE` | `Helpful` | German guy :) |
-| `*Ascii` | `Helpful` | Generator for ASCII artworks. |
-| `*Emkei_Email` | `Helpful` | Send anonymous emails. |
-| `Google Eastereggs` | `Helpful` | Collection of Google Easter eggs. |
-| `RevShells` | `Helpful` | ReverseShell generator <-< |
-| `*z0r` | `Helpful` | **!Epilepsy Warning!** Random weird GIFs|
-| `101_Useful_Sites` | `Helpful` | Collection of helpful sites for everything. |
-| `MD5_Generator` | `Helpful` | Hash your string into MD5 hashes. |
-| `GeoGuesser` | `Helpful` | Drops you somewhere on Google Maps and you have to guess where you are.|
-| `FlightRadar` | `Helpful` | Realtime tracking of airplanes around the globe.|
-| `InternetMap` | `Helpful` | A map of the entire *clear-web*.|
+| `RandomUselessSite` | `Helpful` | TheUselessWeb is a giant collection of random sites. | [https://theuselessweb.com/](https://theuselessweb.com/) |
+| `*WayBackMachine` | `Helpful` | Find old versions and deleted Websites. Giant download of the internet :D | [https://archive.org/web/](https://archive.org/web/) |
+| `Flipper_Zero_CLI` | `Helpful` | Shortcut for Flipper Zero CLI website. | [https://my.flipp.dev/](https://my.flipp.dev/) |
+| `99Things` | `Helpful` | 99 things to visit on the internet. | [http://www.youshouldhaveseenthis.com/](http://www.youshouldhaveseenthis.com/) |
+| `Akinator_EN` | `Helpful` | Guy that tries to guess the object you think of. | [https://en.akinator.com/](https://en.akinator.com/) |
+| `Akinator_DE` | `Helpful` | German guy :) | [https://de.akinator.com/](https://de.akinator.com/) |
+| `*Ascii` | `Helpful` | Generator for ASCII artworks. | [https://www.ascii-art-generator.org/](https://www.ascii-art-generator.org/) |
+| `*Emkei_Email` | `Helpful` | Send anonymous emails. | [https://emkei.cz/](https://emkei.cz/) |
+| `Google Eastereggs` | `Helpful` | Collection of Google Easter eggs. | [https://elgoog.im/](https://elgoog.im/) |
+| `RevShells` | `Helpful` | ReverseShell generator < - < | [https://www.revshells.com/](https://www.revshells.com/) |
+| `*z0r` | `Helpful` | **!Epilepsy Warning!** Random weird GIFs| [https://z0r.de/](https://z0r.de/) |
+| `101_Useful_Sites` | `Helpful` | Collection of helpful sites for everything. | [https://www.labnol.org/internet/101-useful-websites/18078/](https://www.labnol.org/internet/101-useful-websites/18078/) |
+| `MD5_Generator` | `Helpful` | Hash your string into MD5 hashes. | [https://md5hashgenerator.com/](https://md5hashgenerator.com/) |
+| `GeoGuesser` | `Helpful` | Drops you somewhere on Google Maps and you have to guess where you are.| [https://www.geoguessr.com/](https://www.geoguessr.com/) |
+| `FlightRadar` | `Helpful` | Realtime tracking of airplanes around the globe.| [https://www.flightradar24.com/](https://www.flightradar24.com/) |
+| `InternetMap` | `Helpful` | A map of the entire *clear-web*.| [http://internet-map.net/](http://internet-map.net/) |
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `*GER_postillon` | `Troll` | **German** website for news, but its satire. |
-| `*UnfairMario` | `Troll` | The real reason for the death of many computer hardwares. |
-| `PrankOwl` | `Troll` | Collection of many pranks, online and reallife stuff, free and paied. |
-| `Google Gravity` | `Troll` | Usable Google, but everything collapses. |
-| `*Pc_update` | `Troll` | Update screens for PC. |
-| `BlankWindows` | `Troll` | Website containing only blank windows. |
-| `Google1980` | `Troll` | How GOOGLE would have looked like in 1980. |
-| `*HackerTyper` | `Troll` | Website that simulates movielike hacking, press some Keys to make stuff happen. |
-| `*MobileUpdate` | `Troll` | Website that simulates Update screens. |
-| `OneMillionLOL` | `Troll` | 1'000'000x LOL. |
-| `Pointer_Troll` | `Troll` | Displays random pictures where people point at your pointer. |
-| `RandomPerson` | `Troll` | RandomGenerated persons. |
-| `Red_Button` | `Troll` | Similar to TheUselessWeb. |
-| `Water_Google` | `Troll` | Google but underwater. |
-| `Win93_Trolls` | `Troll` | Collection of random stuff of old computers. |
-| `CheckBoxOlympics` | `Troll` | Who can click all checkboxes the fastest? |
-| `FloatingQR` | `Troll` | Just a floating QR code. |
-| `*OneSquareMinesweeper` | `Troll` | A game of minesweeper, with 1 tile only. |
-| `ShitInABox` | `Troll` | Pay 20 bucks and send a box of animal poop to someone. |
+| `*GER_postillon` | `Troll` | **German** website for news, but its satire. | [https://www.der-postillon.com/](https://www.der-postillon.com/) |
+| `*UnfairMario` | `Troll` | The real reason for the death of many computer hardwares. | [https://playunfairmario.net/](https://playunfairmario.net/) |
+| `PrankOwl` | `Troll` | Collection of many pranks, online and reallife stuff, free and paied. | [https://www.prankowl.com/](https://www.prankowl.com/) |
+| `Google Gravity` | `Troll` | Usable Google, but everything collapses. | [https://mrdoob.com/projects/chromeexperiments/google-gravity/](https://mrdoob.com/projects/chromeexperiments/google-gravity/) |
+| `*Pc_FakeUpdate` | `Troll` | Update screens for PC. | [https://dushusir.com/fake/](https://dushusir.com/fake/) |
+| `BlankWindows` | `Troll` | Website containing only blank windows. | [https://www.blankwindows.com/](https://www.blankwindows.com/) |
+| `Google1980` | `Troll` | How GOOGLE would have looked like in 1980. | [https://elgoog.im/terminal/](https://elgoog.im/terminal/) |
+| `*HackerTyper` | `Troll` | Website that simulates movielike hacking, press some Keys to make stuff happen. | [https://www.geektyper.com/plain/](https://www.geektyper.com/plain/) |
+| `*MobileUpdate` | `Troll` | Website that simulates Mobile Phone Update screens. | [https://fakeupdate.net/mobile/](https://fakeupdate.net/mobile/) |
+| `OneMillionLOL` | `Troll` | **THIS FILE HAS BEEN DELETED!** | [DELETED() |
+| `Pointer_Troll` | `Troll` | Displays random pictures where people point at your pointer. | [https://pointerpointer.com/](https://pointerpointer.com/) |
+| `RandomPerson` | `Troll` | RandomGenerated persons. | [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/) |
+| `Red_Button` | `Troll` | Similar to TheUselessWeb. | [https://www.boredbutton.com/](https://www.boredbutton.com/) |
+| `Water_Google` | `Troll` | Google but underwater. | [https://elgoog.im/underwater/](https://elgoog.im/underwater/) |
+| `Win93_Trolls` | `Troll` | **THIS FILE HAS BEEN DELETED** | [DELETED]() |
+| `CheckBoxOlympics` | `Troll` | Who can click all checkboxes the fastest? | [https://checkboxolympics.com/](https://checkboxolympics.com/) |
+| `FloatingQR` | `Troll` | Just a floating QR code. | [https://floatingqrcode.com/](https://floatingqrcode.com/) |
+| `*OneSquareMinesweeper` | `Troll` | A game of minesweeper, with 1 tile only. | [https://onesquareminesweeper.com/](https://onesquareminesweeper.com/) |
+| `ShitInABox` | `Troll` | Pay 20 bucks and send a box of animal poop to someone. **THIS ONE, ONLY EU** | [https://shitforyou.eu/de/](https://shitforyou.eu/de/) |
 
 
 ## NFC_YouTube
 
-| Name      | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `*HubPtroll` | `Troll` | PHub intro troll. |
-| `*Bambi` | `Troll` | **GERMAN** parody of Bambee. |
-| `CantinaBand` | `Troll` | The catina band song *Play the same song agian!*. |
-| `*AngryPanda` | `Troll` | Angry Panda cheese commercials. |
-| `*Delete my PC` | `Troll` | What i tought would happen, when i delete *My Pc*. |
-| `NyanCat_10h` | `Troll` | Nothing to mention here. |
-| `*Use_Condoms` | `Troll` | Best banned commercial ive seen. |
-| `*YallGotACig` | `Troll` | Remix of a meme. |
-| `*Spoon_Killer` | `Troll` | A *funny* story about the slowest killer existing. |
-| `Turtle_Moan` | `Troll` | Turtle enjoys life. |
-| `Deja_Vue` | `Troll` | Deja Vue Complication. |
-| `EN_RedandBlue` | `Troll` | Episode 1 about 2 stickfigures and their weird adventures. |
-| `*GER_RedandBlue` | `Troll` | German version of above. |
-| `EN_ASDFmovie_FULL` | `Troll` | You should watch it, it's a legend. |
-| `*GER_ASDFmovie_FULL` | `Troll` | German version of above. |
-| `*EldenRing_Cartoon` | `Troll` | Ep 1 of many funny animations, even hilarious if you didn't play the game. |
-| `*Letsgameitout` | `Troll` | **Youtube Channel** If you want to watch someone trying the limits of their pc and a game, he is the legend. |
+| Name      | Type     | Description                | []() |
+| :-------- | :------- | :------------------------- | []() |
+| `*HubPtroll` | `Troll` | PHub intro troll. | [https://youtu.be/rrbfbeCJZS0](https://youtu.be/rrbfbeCJZS0) |
+| `*Bambi` | `Troll` | **GERMAN** parody of Bambee. | [https://youtu.be/rICy3gZOHqE](https://youtu.be/rICy3gZOHqE) |
+| `CantinaBand` | `Troll` | The catina band song *Play the same song agian!*. | [https://youtu.be/k1sWbWlinPM](https://youtu.be/k1sWbWlinPM) |
+| `*AngryPanda` | `Troll` | Angry Panda cheese commercials. | [https://youtu.be/XYz3sl0LEA4](https://youtu.be/XYz3sl0LEA4) |
+| `*Delete my PC` | `Troll` | What i tought would happen, when i delete *My Pc*. | [https://youtu.be/o_XaJdDqQA0](https://youtu.be/o_XaJdDqQA0) |
+| `NyanCat_10h` | `Troll` | Nothing to mention here. | [https://youtu.be/mEJ_jxFJU_0](https://youtu.be/mEJ_jxFJU_0) |
+| `*Use_Condoms` | `Troll` | Best banned commercial ive seen. | [https://youtu.be/pFdBUcqfPrA](https://youtu.be/pFdBUcqfPrA) |
+| `*YallGotACig` | `Troll` | Remix of a meme. | [https://youtu.be/bbApBbOaJHM](https://youtu.be/bbApBbOaJHM) |
+| `*Spoon_Killer` | `Troll` | A *funny* story about the slowest killer existing. | [https://youtu.be/9VDvgL58h_Y](https://youtu.be/9VDvgL58h_Y) |
+| `Turtle_Moan` | `Troll` | Turtle enjoys life. | [https://youtu.be/slTlemJv9mE](https://youtu.be/slTlemJv9mE) |
+| `Deja_Vue` | `Troll` | Deja Vue Complication. | [https://youtu.be/084FXsflPOE](https://youtu.be/084FXsflPOE) |
+| `EN_RedandBlue` | `Troll` | Episode 1 about 2 stickfigures and their weird adventures. | [https://youtu.be/dXauV32kSrI](https://youtu.be/dXauV32kSrI) |
+| `*GER_RedandBlue` | `Troll` | German version of above. | [https://youtu.be/fo1ppiaV4Sc](https://youtu.be/fo1ppiaV4Sc) |
+| `EN_ASDFmovie_FULL` | `Troll` | You should watch it, it's a legend. | [https://youtu.be/kcNpBNpvyc4]([https://youtu.be/kcNpBNpvyc4) |
+| `*GER_ASDFmovie_FULL` | `Troll` | German version of above. | [https://youtu.be/fhS9Y3SfuRQ](https://youtu.be/fhS9Y3SfuRQ) |
+| `*EldenRing_Cartoon` | `Troll` | Ep 1 of many funny animations, even hilarious if you didn't play the game. | [https://youtu.be/LSyRf8rAjTs](https://youtu.be/LSyRf8rAjTs) |
+| `*Letsgameitout` | `Troll` | **Youtube Channel** If you want to watch someone trying the limits of their pc and a game, he is the legend. | [https://www.youtube.com/c/LetsGameItOut](https://www.youtube.com/c/LetsGameItOut) |
 
 *more coming soon...*
