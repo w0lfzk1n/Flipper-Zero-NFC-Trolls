@@ -76,6 +76,7 @@ Press F11 to enable/disable Fullscreen ;)
 | `*z0r` | `Helpful` | **!Epilepsy Warning!** Random weird GIFs|
 | `101_Useful_Sites` | `Helpful` | Collection of helpful sites for everything. |
 | `MD5_Generator` | `Helpful` | Hash your string into MD5 hashes. |
+| `*GeoGuesser` | `Helpful` | Drops you somewhere on Google Maps and you have to guess where you are.|
 
 | Name      | Type     | Description                |
 | :-------- | :------- | :------------------------- |
