@@ -93,7 +93,7 @@ Here i will show you, how you can create your own NFC Tags like this. I will jus
 | `*Ascii` | `Helpful` | Generator for ASCII artworks. | [https://www.ascii-art-generator.org/](https://www.ascii-art-generator.org/) |
 | `Emkei_Email` | `Helpful` | Send anonymous emails. | [https://emkei.cz/](https://emkei.cz/) |
 | `Google Eastereggs` | `Helpful` | Collection of Google Easter eggs. | [https://elgoog.im/](https://elgoog.im/) |
-| `RevShells` | `Helpful` | ReverseShell generator < - < | [https://www.revshells.com/](https://www.revshells.com/) |
+| `RevShells` | `Helpful` | ReverseShell generator. | [https://www.revshells.com/](https://www.revshells.com/) |
 | `101_Useful_Sites` | `Helpful` | Collection of helpful sites for everything. | [https://www.labnol.org/internet/101-useful-websites/18078/](https://www.labnol.org/internet/101-useful-websites/18078/) |
 | `MD5_Generator` | `Helpful` | Hash your string into MD5 hashes. | [https://md5hashgenerator.com/](https://md5hashgenerator.com/) |
 | `GeoGuesser` | `Game` | Drops you somewhere on Google Maps and you have to guess where you are.| [https://www.geoguessr.com/](https://www.geoguessr.com/) |
