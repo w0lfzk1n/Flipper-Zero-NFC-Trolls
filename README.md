@@ -61,9 +61,24 @@ Here i will show you, how you can create your own NFC Tags like this. I will jus
 
 "*" = My own favorites :)
 
+## NFC_FlipperStuff
+
+**FlipperZero helpful shortcuts**
+
+| Name      | Type     | Description                | Link     |
+| :-------- | :------- | :------------------------- | :------- |
+| `*aFlipperZero_Webside` | `Dolphin` | Link for official FlipperZero website. | [https://flipperzero.one/](https://flipperzero.one/) |
+| `*Official_Firmware` | `Dolphin` | A fast link for official firmware GitHub repo. | [https://github.com/flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) |
+| `*NFC_Trolls` | `Trolls` | A fast link to this GitHub repo. | [https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls) |
+| `Flipper_Zero_CLI` | `Dolphin` | Shortcut for Flipper Zero CLI website, for terminal acces for F0. | [https://my.flipp.dev/](https://my.flipp.dev/) |
+| `*PlayGround_UberGuidoZ` | `DolphinDP` | FlipperZero playground, collection of a lot of files and dumps for FlipperZero. | [https://github.com/UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) |
+| `*Awesome-Flipper` | `DolphinDP` | FlipperZero collection of many other repos and stuff for FLipperZero. | [https://github.com/djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) |
+| `*Unleashed` | `DolphinFW` | Unleashed firmware for FlipperZero. | [https://github.com/DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) |
+| `*RougeMaster` | `DolphinFW` | Unleashed firmware fork, just with more games and animations. | [https://github.com/RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) |
+
 ## NFC_Files
 
-**HELPFUL STUFF**
+**HELPFUL LINKS**
 
 | Name      | Type     | Description                | Link     |
 | :-------- | :------- | :------------------------- | :------- |
@@ -85,7 +100,7 @@ Here i will show you, how you can create your own NFC Tags like this. I will jus
 | `FlightRadar` | `Helpful` | Realtime tracking of airplanes around the globe.| [https://www.flightradar24.com/](https://www.flightradar24.com/) |
 | `InternetMap` | `Helpful` | A map of the entire *clear-web*.| [http://internet-map.net/](http://internet-map.net/) |
 
-**TROLL STUFF**
+**TROLL LINKS**
 
 `Press F11 to enable/disable Fullscreen ;)`
 
@@ -142,18 +157,5 @@ Here i will show you, how you can create your own NFC Tags like this. I will jus
 | `*NetworkChuck` | `Helpful` | Guy with beard and lots of coffee teaching basic computer and hacking stuff, mostly beginner friendly :D | [https://www.youtube.com/c/NetworkChuck](https://www.youtube.com/c/NetworkChuck) |
 | `*DavidBombal` | `Helpful` | Guy without beard or coffee teaching computer stuff, also beginner level. | [https://www.youtube.com/c/DavidBombal](https://www.youtube.com/c/DavidBombal) |
 | `*JackRhysider` | `Helpful` | Channel for Podcast, telling stories about hacks and stuff of the dark side of the internet. | [https://www.youtube.com/c/JackRhysider](https://www.youtube.com/c/JackRhysider) |
-
-## NFC_FlipperStuff
-
-| Name      | Type     | Description                | Link     |
-| :-------- | :------- | :------------------------- | :------- |
-| `*aFlipperZero_Webside` | `Dolphin` | Link for official FlipperZero website. | [https://flipperzero.one/](https://flipperzero.one/) |
-| `*Official_Firmware` | `Dolphin` | A fast link for official firmware GitHub repo. | [https://github.com/flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) |
-| `*NFC_Trolls` | `Trolls` | A fast link to this GitHub repo. | [https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls) |
-| `Flipper_Zero_CLI` | `Dolphin` | Shortcut for Flipper Zero CLI website, for terminal acces for F0. | [https://my.flipp.dev/](https://my.flipp.dev/) |
-| `*PlayGround_UberGuidoZ` | `DolphinDP` | FlipperZero playground, collection of a lot of files and dumps for FlipperZero. | [https://github.com/UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) |
-| `*Awesome-Flipper` | `DolphinDP` | FlipperZero collection of many other repos and stuff for FLipperZero. | [https://github.com/djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) |
-| `*Unleashed` | `DolphinFW` | Unleashed firmware for FlipperZero. | [https://github.com/DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) |
-| `*RougeMaster` | `DolphinFW` | Unleashed firmware fork, just with more games and animations. | [https://github.com/RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) |
 
 *more coming soon...*
