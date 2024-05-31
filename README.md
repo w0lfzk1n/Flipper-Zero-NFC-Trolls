@@ -3,59 +3,64 @@
 `Version: 0.8`
   `Total: 70 Files`
 
-**!! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!**
+**Disclaimer**
 
-This is my first GitHub Repo, please don't blame :)
+!! I DO NOT OWN ANY OF THESE LINKS/VIDEOS !!
 
-You know any other site or want to share a video/website too?
+[ This is my very first GitHub Repo, please don't blame :) ]
+
+**Contact**
 
 - [GitHub @w0lfzk1nD](https://github.com/w0lfzk1n)
 - [Discord Toxic_Wolf#2468]
 
-## ==Infos==
+## == Infos ==
 
-- *I am german, so i will add some german things as well, every german file will be noted with GER*
-- *Please remove and don't use the 3 files that have been removed. Blankwindows , OneMillionLOL , Win_93!*
-- *Please let me know about any improvement or change i sould consider*
+- *I am from germany, so there are some german-based links. They are marked with **GER**.*
 
 ## How to add?
-Place the folder/s or file/s onto the SD-Cards folder for NFC, used by your Flipper.
+- Download / Clone this repo.
+- Connect Flipper to PC via USB, or access the SD Card from a reader.
+- Copy all the entire folders into the existing **nfc** folder. *Or pick the ones you like from the list below*
+- Access the file/s on the Flippers **NFC** Menu and emulate the chosen one.
+- Hold it near a device *(Smartphone/Laptop)* with NFC **turned ON**
+- Have fun... or what ever you do :P
 
 É voila :D 
 
-Launch them on your Flipper, hold it near a device with NFC turned on and watch :D 
-
 ## What?
 
-I collected a few websites and videos i tought, it might be worth to have them in your pocket when you are around :)
+I personally knew a few funny and great websites to browse when you are bored.
 
-Trolls // Funny stuff // Weird stuff // Helpful stuff
+When I bought the FlipperZ, I thought *"Why not preseve some of those on this thing?"*
+
+So here we are, all links are documented below and categorized.
+
+**Trolls** // **Funny stuff** // **Weird stuff** // **Helpful stuff**
 
 Using Android, i wrote the links to empty NTAG_213BIT emulated by Flipper Zero.
 
 ## How to create myself?
 
-Here i will show you, how you can create your own NFC Tags like this. I will just referr to my situation, but this should show how to do it.
+I will quickly summarize how I did it. This method is pretty basic, *duh*.
+
+It can be done more easily, I know. I did not went deep into NFC things.
 
 **Requirements**
 
 - Mobile Phone with NFC App to write    *(Android in my case)*
 - Flipper Zero
 - PC with qFlipper
+- USB - USB-C Cable
 
 1. Download the Xempty_213.nfc or any NFC Tag that fits you and put it on the Flipper's SD.
+2. Open the NFC app *(no specific app to mention, just search one that can WRITE)* and emulate writing the link you want to have as NFC.
+3. Now emulate the *NFC File* from Step 1. and hold it near the device, emulating the Link.
+4. Go to qFlipper and navigate to the folder with the NFC you have emulated.
+5. You now see **2 Files**. Rename the *(example)* **Xempty.shd** to your desired name. *Your-Key.nfc*
+7. Enjoy your NFC Tag :D
 
-2. Open the NFC app (no specific app to mention, just search one that can WRITE) and emulate writing the link you want to have as NFC.
-
-3. Emulate the NFC tag with your Flipper and hold it on the phone until it's success.
-
-4. Go to qFlipper and navigate, where you have saved the tag you have written to
-
-5. Rename the NEW file that has the same name *ex Xempty.shd* and put **.nfc** on the end
-
-6. Enjoy your NFC Tag :D
-
-*MAY YOUR PHONE DOES NOT SUPPORT NFC OR NFC WRITING, PLEASE INFORM YOURSELF AND DON'T ASK ME ABOUT THIS*
+*YOUR PHONE MAY NOT SUPPORT NFC OR NFC WRITING, PLEASE INFORM YOURSELF AND DON'T ASK ME ABOUT THIS*
 
 ## Documentation
 
